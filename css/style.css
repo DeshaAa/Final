@@ -518,6 +518,7 @@ body {
 .features-cards-1 {
     background-color: #ffffffcc;
     width: 95%;
+    height: 400px;
     display: flex;
     flex-direction: row;
     align-items: center;
